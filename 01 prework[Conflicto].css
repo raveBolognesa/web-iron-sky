@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+#general-information {
+
+}
+
+#structure {
+
+}
+
+#team {
+
+}
+
+#schedule {
+
+}
+
+body {
+  font-family: roboto;
+  font-size: 10 px;
+  line-height: 3.5 em;
+  font-weight: 300;
+}
+
+h1 {
+	font-family: roboto Condensed;
+	font-size: 9 em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: roboto Condensed;
+	font-size: 5 em;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 4 em;
+
+}
+
+h3 {
+	font-family: roboto Condensed;
+	font-size: 4.2 em;
+	text-align: center;
+
+}
+
+h4 {
+	font-family: roboto Condensed;
+	font-size: 1.5 em;
+	letter-spacing: 0.4 px;
+}
+
+h5 {
+	font-family: roboto Condensed;
+	font-size: 1.2 em;
+}
+
+.nav-bar {
+	background-color: darkblue ;
+	color: white;
+}
+
+.nav-bar-item {
+	color: white;
+	text-decoration: none;
+	font-size: 2 em;
+
+}
+
+.header {
+	background-image: url("https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/ironhack-skydive-background.jpg");
+	position: 0 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+
+}
+
+.headerh2 {
+	color: white;
+	text-shadow: #020819 8px -20px 9px;
+}
+
+.quote {
+	font-size: 2.5 em;
+
+}
+
+.dark-background {
+	background-color: darkblue;
+	color: white;
+
+}
+
+.text {
+	font-size: 2em;
+	font-weight: 100;
+	text-align: center;
+}
+
+.link-btn {
+	font-family: roboto Condensed;
+	background-color: blue;
+	color: white;
+	font-size: 2 em ;
+	letter-spacing: 0.5 px;
+	text-align: center;
+	text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
